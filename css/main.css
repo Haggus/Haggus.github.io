@@ -1,0 +1,30 @@
+body {
+    background-color: #2e3436;
+    color: #f2f2f2;
+}
+
+#header {
+    display: block;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.navi {
+    display: inline-block;
+}
+
+.navi ul {
+    padding-left: 40px;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+.navi ul li {
+    display: inline;
+}
+
+.contact {
+    display: inline-block;
+}
